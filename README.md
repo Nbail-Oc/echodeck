@@ -1,21 +1,25 @@
-# Next.js template
+# EchoDeck
 
-This is a Next.js template with shadcn/ui.
+> Press a sound. Make it yours. Bring it back.
 
-## Adding components
+EchoDeck is an interactive soundboard and audio engagement platform for Twitch streamers. It bridges 10-slot tactile buzzer decks, real-time viewer Twitch panel triggers, and voice mimic imitation challenges directly into broadcast setups (OBS).
 
-To add components to your app, run the following command:
+## Features
+- **10-Slot Quick Buzzer Pages**: Organize sounds into instant tactile pages. Trigger with number keys 0-9, keyboard hotkeys, or physical Stream Deck keypads.
+- **Twitch Viewer Panel Extension**: Let viewers trigger allowed sounds directly below your stream with customizable cooldowns and follower/subscriber permissions.
+- **Voice Mimic Challenges**: Record voice impressions in 3 takes, visualize live audio waveforms, and score accuracy.
+- **Sound Marketplace & Library**: Search, preview, and build custom soundboards with original and creator audio clips.
+
+## Getting Started
 
 ```bash
-npx shadcn@latest add button
-```
+# Install dependencies
+npm install
 
-This will place the ui components in the `components` directory.
+# Run development server
+npm run dev
 
-## Using components
-
-To use the components in your app, import them as follows:
-
-```tsx
-import { Button } from "@/components/ui/button";
+# Build and run production server
+npm run build
+npm run start
 ```
