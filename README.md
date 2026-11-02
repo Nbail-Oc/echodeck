@@ -25,14 +25,8 @@
 
 ## Demo video
 
-Watch the full walkthrough and outro video in the repository:
-
 <p align="center">
-  <a href="EchoDeck_Outro_VSL.mp4">
-    <img src="public/images/echodeck-banner.jpg" alt="Watch EchoDeck Outro Video" width="85%" />
-    <br />
-    <sub>Click here to play EchoDeck_Outro_VSL.mp4</sub>
-  </a>
+  <video src="EchoDeck_Outro_VSL.mp4" controls autoplay loop muted playsinline width="100%"></video>
 </p>
 
 ---
