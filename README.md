@@ -23,10 +23,14 @@
 
 ---
 
-## Demo video
+## Overview
 
 <p align="center">
-  <video src="EchoDeck_Outro_VSL.mp4" controls autoplay loop muted playsinline width="100%"></video>
+  <a href="https://github.com/Nbail-Oc/echodeck/blob/main/EchoDeck_Outro_VSL.mp4">
+    <img src="public/stickers/streamer.gif" alt="Watch EchoDeck Trailer" width="460" />
+    <br />
+    <sub>▶ Click here to watch the EchoDeck trailer (EchoDeck_Outro_VSL.mp4)</sub>
+  </a>
 </p>
 
 ---
