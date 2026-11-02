@@ -26,11 +26,13 @@
 ## Overview
 
 <p align="center">
-  <a href="https://github.com/Nbail-Oc/echodeck/blob/main/EchoDeck_Outro_VSL.mp4">
-    <img src="public/stickers/streamer.gif" alt="Watch EchoDeck Trailer" width="460" />
-    <br />
-    <sub>▶ Click here to watch the EchoDeck trailer (EchoDeck_Outro_VSL.mp4)</sub>
-  </a>
+
+  
+
+https://github.com/user-attachments/assets/7714c396-2963-4bf4-af97-82606d46aa35
+
+
+   
 </p>
 
 ---
